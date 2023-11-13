@@ -1,0 +1,62 @@
+.abnertab {
+  width: 400px;
+  height: auto;
+  background: var(--fondosog-2);
+  line-height: auto;
+  border: 5px double var(--group);
+  margin: 0 auto;
+  padding: 15px;
+  border-radius: 20px;
+  background: var(--dbckg2);
+}
+.rsu {
+  font-weight: bold;
+  font-family: "Asbela Eternity", sans-serif;
+  font-size: 25px;
+  color: var(--group);
+  z-index: 1;
+  text-shadow: 1px #000;
+  padding: 5px;
+  text-align: center;
+}
+.abnertab span {
+  background: var(--group-50);
+  border: 1px solid var(--group);
+  color: #fff;
+  padding: 0px 12px;
+  border-radius: 10px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: -1.45px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.abnerfor {
+  background: var(--fondosog-2);
+  border: 1px solid var(--group);
+  border-radius: 20px;
+  padding: 30px;
+  overflow: auto;
+  padding-bottom: 10px;
+}
+.abnertabcuer {
+  font-family: "PT Serif", sans-serif;
+  line-height: auto;
+  font-size: 13px;
+  text-align: justify;
+  padding: 10px;
+}
+.rli {
+  background: var(--group);
+  height: 1px;
+  width: 260px;
+  margin-right: 10px;
+}
+.abne-icon {
+  position: absolute;
+  margin-left: 200px;
+  margin-top: -70px;
+  font-size: 80px;
+}
